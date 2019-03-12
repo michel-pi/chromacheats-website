@@ -2,6 +2,10 @@
 
 This repository reflects the current state of the static pages and resources currently used at [ChromaCheats](https://chromacheats.com)
 
+## API
+
+Our public api (including our User Avatar Generator) can be found in the public-api directory
+
 #### Usage
 
 You can use this resources to learn how we build our static pages or to use our resources to create related content (videos, banners, signatures...)
